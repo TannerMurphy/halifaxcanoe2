@@ -21,7 +21,7 @@
             <option value="Manager">Manager</option>
             <option value="CEO">CEO</option>
         </select>
-        <!-- <input type="text" name="role" placeholder="Role" value ="admin" required> -->
+        
         <button type="submit" name="login">Login</button>
     </form>
 		<br>
