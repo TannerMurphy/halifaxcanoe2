@@ -1,9 +1,7 @@
 <?php include "header.php" ?>
 
-	<main>
-		<article>
-            
-        </article>
-	</main>
-	
+	<div id="welcomeBox">
+    <h1></h1>
+	</div>
+	<?php include "footer.php" ?>
 </html>
