@@ -9,6 +9,6 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <title>Document</title>
 </head>
-
+<!-- link to nav bar, imprtant to include -->
 <?php require 'nav-menubar.php';?>
 <body>

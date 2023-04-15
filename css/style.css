@@ -140,11 +140,32 @@ footer {
 	margin: auto;
 	background: #4E31AA;
 	padding-top: 100px;
+	padding-bottom: 50px;
 	box-shadow: 0 0px 10px 5px rgba(0,0,0,0.8);
 }
 
 #welcomeBox > h1 {
+	width: calc(100% - 160px);
+	text-align: center;
+	font-size: 40px;
 	color: white;
+	text-shadow: -1px -1px 0 #000, 1px -1px 0 #000;
+
+}
+
+#welcomeBox > a {
+	display: block;
+	width: 300px;
+    text-align: center;
+    padding: 10px;
+    
+    color: #3A1078;
+	background-color: lightblue;
+	border-style: outset;
+    text-transform: uppercase;
+	font-size: 30px;
+	font-weight: 50;
+	text-decoration: none;
 }
 
 #welcomeBox form {
