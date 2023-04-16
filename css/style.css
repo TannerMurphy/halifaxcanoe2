@@ -177,18 +177,15 @@ footer {
 #welcomeBox select,  #welcomeBox input {
 	font-size: 20px;
 	border-width: 0px;
-}
-
-.inARow {
-	padding: 3px;
-	margin: 0px;
+	height:30px;
 }
 
 .blueButton {
 	color: white;
 	background-color: #2196f3;
 	padding: 5px;
-	margin-top: 10px;
+	height: 32px;
+	font-size: 15px;
 }
 
 
